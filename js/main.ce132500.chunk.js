@@ -454,7 +454,7 @@
             id: 1,
             title: "PicGo",
             intro: "便捷式图床工具",
-            thumb: "/images/project/kiwi-fruit.png",
+            thumb: "./images/project/kiwi-fruit.png",
             link: "https://github.com/Molunerfinn/PicGo/releases",
             time: "2021.2.18"
         }];
@@ -492,7 +492,7 @@
             "Jonayze"), r.a.createElement("div", {
                 className: "description"
             },
-            "\xa0", "\xa0", "新出的芽用它的温柔融化了少年心中的墙堵箭影，「绿生」由此而生。我希望通过 Coding 的方式来描绘自己的内心世界，因不甘平庸而奋起，因不达目标而不懈。")), r.a.createElement("section", {
+            "\xa0", "\xa0", "\"新出的芽用它的温柔融化了少年心中的墙堵箭影，「绿生」由此而生\" —— Cyris。我希望通过 Coding 的方式来描绘自己的内心世界，因不甘平庸而奋起，因不达目标而不懈。")), r.a.createElement("section", {
                 className: "information-box"
             },
             r.a.createElement("div", {
@@ -527,7 +527,7 @@
             "Afterwords"), r.a.createElement("div", {
                 className: "paragraph"
             },
-            "\xa0", "\xa0", "\u611f\u8c22\u0020\u0079\u0075\u0069\u0035\u0034\u0030\u0020\u521b\u4f5c\u7684\u5404\u79cd\u4f5c\u54c1\u548c\u5185\u5bb9\u63d0\u4f9b\u8005\u0020\u0043\u0079\u0072\u0069\u0073\u0020\u4ee5\u53ca\u6211\u7684\u542f\u8499\u5bfc\u5e08\u0020\u4e91\u6e38\u541b\uff0c\u65e0\u8bba\u662f\u6280\u672f\u5c42\u9762\u8fd8\u662f\u8bbe\u8ba1\u5c42\u9762\u6211\u90fd\u6536\u83b7\u4e86\u5f88\u591a\u3002\u4e5f\u611f\u8c22\u4e00\u76f4\u966a\u4f34\u5728\u6211\u8eab\u8fb9\u7684\u4eba\uff0c\u6211\u7684\u6bcf\u4e00\u6bb5\u65e5\u5e38\u90fd\u662f\u6211\u7684\u7075\u611f\u6765\u6e90\u3002", r.a.createElement("br", null), r.a.createElement("br", null), '"\u63a2\u6c42\u771f\u7406\u8005\u4e0d\u53ef\u5fc3\u5b58\u50b2\u6162\u3002"')), r.a.createElement("section", {
+            "\xa0", "\xa0", "感谢 yui540 和Cyris 创作的各种作品，以及我的启蒙导师-云游君，无论是技术层面还是设计层面我都收获了很多。也感谢一直陪伴在我身边的人，我的每一段日常都是我的灵感来源。", r.a.createElement("br", null), r.a.createElement("br", null), '"\u63a2\u6c42\u771f\u7406\u8005\u4e0d\u53ef\u5fc3\u5b58\u50b2\u6162\u3002"')), r.a.createElement("section", {
                 className: "footer-box"
             },
             r.a.createElement("div", {
