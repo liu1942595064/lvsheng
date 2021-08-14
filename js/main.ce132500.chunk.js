@@ -454,7 +454,7 @@
             id: 1,
             title: "PicGo",
             intro: "便捷式图床工具",
-            thumb: "./images/project/kiwi-fruit.png",
+            thumb: "https://cdn.jsdelivr.net/gh/liu1942595064/cdn@master/lvsheng/kiwi-fruit.png",
             link: "https://github.com/Molunerfinn/PicGo/releases",
             time: "2021.2.18"
         }];
